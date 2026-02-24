@@ -23,7 +23,5 @@ class SumOfDigit{
         System.out.println(count);
         System.out.println("sum = "+sum);
 
-
-
     }
 }
